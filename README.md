@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <div align="center">
   <div>
@@ -11,7 +11,6 @@
       <li>A Full Stack Web Developer. 👩‍💻</li>
       <li>assionate about coding and teamwork. 🤝</li>
       <li>Self-taught, curious 🧩</li>
-      
     </ul>
   </div>
 
